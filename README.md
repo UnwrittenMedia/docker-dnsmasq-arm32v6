@@ -1,6 +1,6 @@
 # docker-dnsmasq-arm32v6
 
-It's an Alpine based distribution of [dnsmasq][dnsmasq] in a Docker image. It is only several MB in size. It is just an `ENTRYPOINT` to the `dnsmasq` binary.
+It's an Alpine based distribution of [dnsmasq][dnsmasq] in a Docker image that works on the Raspberry PI. It is only several MB in size. It is just an `ENTRYPOINT` to the `dnsmasq` binary.
 
 This was inspired by https://github.com/andyshinn/docker-dnsmasq for x86.
 
